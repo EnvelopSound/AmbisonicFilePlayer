@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "ambix_converter_o1",
+	"origin" : "ambix_converter_o1.vst",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "ambix_converter_o1.vst",
+		"plugindisplayname" : "ambix_converter_o1",
+		"pluginsavedname" : "ambix_converter_o1",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "271.CMlaKA....fQPMDZ....ADzPuEC...fB..............................................vzVMjLgnL....OMkETLU0QI4zTEQEUI4zQSAhXug2WvIWYyUFcy0iHh.RZt80bkE2WvElbg0VOh.iHf7Vcz80bkE2WvElbg0VOh.iHfjlae41ax01WvElbg0VOh.iHf7Vcz8kauIWaeAWXxEVa8HBLh.hYrkFbeM1beAGZgMWY8HBLh.hYrkFbeAWXxEVa8HBLh.hYr8FbeAWXxEVa8HBLh.hYrEFbeAWXxEVa8HBLh.RZt8kLj8EbgIWXs0iHvHBHuUGceICYeAWXxEVa8HBLh7hO.."
+	}
+
+}
